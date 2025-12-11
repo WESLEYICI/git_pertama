@@ -40,3 +40,7 @@ data_panen = {
         }
     }
 }
+
+#tugas soal no2
+print("Jagung lokasi2:", data_panen['lokasi2']['hasil_panen']['jagung'])
+
