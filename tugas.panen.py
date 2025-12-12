@@ -98,3 +98,8 @@ for lokasi, info in data_panen.items():
         print(f"{nama} ({lokasi}) memerlukan perhatian khusus!")
     else:
         print(f"{nama} ({lokasi}) dalam kondisi normal.")
+
+
+# Baris ini ditambahkan di branch Baru untuk Soal 3
+
+
