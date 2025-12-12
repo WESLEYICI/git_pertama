@@ -41,15 +41,13 @@ data_panen = {
     }
 }
 
-#tugas soal no.2
-print("Jagung lokasi2:", data_panen['lokasi2']['hasil_panen']['jagung'])
+# tugas soal no.2
+print("Jagung lokasi2:", data_panen['lokasi2']['hasil_panenn']['jagung'])
 
-
-#tugas soal no.3
+# tugas soal no.3
 print("Nama lokasi3:", data_panen['lokasi3']['nama_lokasi'])
 
-
-#tugas soal no.4
+# tugas soal no.4
 padi_lokasi1 = data_panen['lokasi1']['hasil_panenn']['padi']
 kedelai_lokasi1 = data_panen['lokasi1']['hasil_panenn']['kedelai']
 
@@ -67,4 +65,21 @@ kedelai_lokasi5 = data_panen['lokasi5']['hasil_panenn']['kedelai']
 
 print("Variabel padi dan kedelai setiap lokasi berhasil dibuat.")
 
+#tugas soal no.5
+padi_lokasi1 = data_panen['lokasi1']['hasil_panenn']['padi']
+kedelai_lokasi1 = data_panen['lokasi1']['hasil_panenn']['kedelai']
+
+padi_lokasi2 = data_panen['lokasi2']['hasil_panenn']['padi']
+kedelai_lokasi2 = data_panen['lokasi2']['hasil_panenn']['kedelai']
+
+padi_lokasi3 = data_panen['lokasi3']['hasil_panenn']['padi']
+kedelai_lokasi3 = data_panen['lokasi3']['hasil_panenn']['kedelai']
+
+padi_lokasi4 = data_panen['lokasi4']['hasil_panenn']['padi']
+kedelai_lokasi4 = data_panen['lokasi4']['hasil_panenn']['kedelai']
+
+padi_lokasi5 = data_panen['lokasi5']['hasil_panenn']['padi']
+kedelai_lokasi5 = data_panen['lokasi5']['hasil_panenn']['kedelai']
+
+print("Variabel padi dan kedelai setiap lokasi berhasil dibuat.")
 
