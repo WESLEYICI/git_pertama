@@ -41,6 +41,11 @@ data_panen = {
     }
 }
 
-#tugas soal no2
+#tugas soal no.2
 print("Jagung lokasi2:", data_panen['lokasi2']['hasil_panen']['jagung'])
+
+
+#tugas soal no.3
+print("Nama lokasi3:", data_panen['lokasi3']['nama_lokasi'])
+
 
